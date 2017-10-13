@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  12 OCT 2017 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  13 OCT 2017 09:23
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -137,21 +137,50 @@ File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen133
 \Gin@req@width=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count98
+\multirow@dima=\skip50
+\bigstrutjot=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
 ) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
@@ -186,16 +215,20 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for T1+lmdh on input line 13.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 15.
+ (sec/baseInfo.tex
+LaTeX Font Info:    Try loading font information for T1+lmdh on input line 1.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmdh.fd"
 File: t1lmdh.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
+(Font)              <10.95> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              <6> on input line 2.
 File: img/address.png Graphic file (type eps)
  <img/address.png>
 File: img/email.png Graphic file (type eps)
@@ -206,26 +239,30 @@ File: img/website.png Graphic file (type eps)
 File: img/phone.png Graphic file (type eps)
  <img/phone.png>
 File: img/git.png Graphic file (type eps)
- <img/git.png>
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+ <img/git.png>)
+(sec/educationObjective.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+) (sec/experience.tex
+Overfull \vbox (176.88005pt too high) detected at line 11
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--81
+
+Overfull \vbox (154.00008pt too high) detected at line 19
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 13--81
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--81
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
 
  []
 
@@ -233,12 +270,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--81
 
 ] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1402 strings out of 493324
- 18907 string characters out of 3139091
- 83436 words of memory out of 3000000
- 4941 multiletter control sequences out of 15000+200000
+ 1542 strings out of 493324
+ 21472 string characters out of 3139091
+ 87566 words of memory out of 3000000
+ 5060 multiletter control sequences out of 15000+200000
  13921 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,15n,32p,208b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,15n,32p,228b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (1 page, 3232 bytes).
+Output written on resume.dvi (1 page, 4076 bytes).
