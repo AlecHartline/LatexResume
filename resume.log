@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  12 OCT 2017 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  12 OCT 2017 20:54
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -196,11 +196,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
+File: img/address.png Graphic file (type eps)
+ <img/address.png>
 File: img/email.png Graphic file (type eps)
- <img/email.png>
-File: img/website.png Graphic file (type eps)
 
-<img/website.png>
+<img/email.png>
+File: img/website.png Graphic file (type eps)
+ <img/website.png>
 File: img/phone.png Graphic file (type eps)
  <img/phone.png>
 File: img/git.png Graphic file (type eps)
@@ -231,12 +233,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--81
 
 ] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1400 strings out of 493324
- 18881 string characters out of 3139091
+ 1402 strings out of 493324
+ 18907 string characters out of 3139091
  83436 words of memory out of 3000000
- 4940 multiletter control sequences out of 15000+200000
+ 4941 multiletter control sequences out of 15000+200000
  13921 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  25i,15n,32p,208b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (1 page, 3152 bytes).
+Output written on resume.dvi (1 page, 3232 bytes).
