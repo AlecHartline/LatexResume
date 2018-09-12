@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  11 SEP 2018 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  11 SEP 2018 21:18
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -295,16 +295,20 @@ File: img/email.png Graphic file (type eps)
 File: img/phone.png Graphic file (type eps)
 
 <img/phone.png>) (sec/education.tex) (sec/technical.tex) (sec/experience.tex)
-[1
+Underfull \hbox (badness 10000) in paragraph at lines 22--42
+
+ []
+
+(sec/projects.tex) (sec/extracurriculars.tex) [1
 
 ] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1678 strings out of 493324
- 23476 string characters out of 3139091
- 87714 words of memory out of 3000000
- 5185 multiletter control sequences out of 15000+200000
- 13976 words of font info for 24 fonts, out of 3000000 for 9000
+ 1686 strings out of 493324
+ 23605 string characters out of 3139091
+ 90714 words of memory out of 3000000
+ 5186 multiletter control sequences out of 15000+200000
+ 14759 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,4n,32p,206b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,4n,32p,206b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (1 page, 2620 bytes).
+Output written on resume.dvi (1 page, 4468 bytes).
