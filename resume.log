@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  11 SEP 2018 21:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  11 SEP 2018 21:27
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -226,7 +226,15 @@ LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (resume.aux)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\dashrule\dashrule.sty"
+Package: dashrule 2013/03/28 v1.3 Dashed rules
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty"
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)
+\c@hdr@segments=\count108
+) (resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -299,16 +307,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--42
 
  []
 
-(sec/projects.tex) (sec/extracurriculars.tex) [1
-
-] (resume.aux) ) 
-Here is how much of TeX's memory you used:
- 1686 strings out of 493324
- 23605 string characters out of 3139091
- 90714 words of memory out of 3000000
- 5186 multiletter control sequences out of 15000+200000
- 14759 words of font info for 25 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 25i,4n,32p,206b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on resume.dvi (1 page, 4468 bytes).
+(sec/projects.tex)
+! Missing } inserted.
+<inserted text> 
+                }
+l.44 	\end{flushleft}
+                     
+? 
