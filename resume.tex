@@ -3,17 +3,40 @@
 
 \usepackage{anyfontsize}
 \usepackage{t1enc}
-\usepackage[margin=0.33in]{geometry}
+\usepackage[margin=10pt]{geometry}
 \usepackage{booktabs}
 \usepackage{tabularx, pbox}
 \usepackage{graphicx}
 \usepackage{multirow}
 \usepackage{ragged2e}
+\usepackage{multicol}
+\usepackage{pifont}% http://ctan.org/pkg/pifont
 
 \graphicspath{ {img/} }
 
 \begin{document}
-	\input{sec/baseInfo}
-	\input{sec/educationObjective}
-	\input{sec/experience}
+\begin{center}
+{\fontfamily{lmdh}\fontsize{42}{50.4}\hspace{0.75cm}\selectfont Alec Hartline}\\
+\noindent\rule{\linewidth}{1pt}
+\end{center}
+    \begin{minipage}[t]{10cm}
+        \input{sec/baseInfo}
+    \end{minipage}
+	\begin{minipage}[t]{10cm}
+	    \vspace{-6.25cm}
+	    \begin{flushright}
+            \input{sec/education}
+		\end{flushright}
+    \end{minipage}\\
+	\begin{minipage}[t]{10cm}
+	    \begin{flushright}
+		    \vspace{-2.15cm}
+            \input{sec/technical}
+		\end{flushright}
+    \end{minipage}
+	\begin{minipage}[t]{10cm}
+	    \begin{flushright}
+            \input{sec/experience}
+		\end{flushright}
+    \end{minipage}
 \end{document}

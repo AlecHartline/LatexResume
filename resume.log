@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  13 APR 2018 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=latex 2017.10.12)  11 SEP 2018 20:28
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -165,21 +165,82 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip62
 \RaggedRightParindent=\skip63
 \JustifyingParindent=\skip64
-) (resume.aux)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count99
+\mult@box=\box26
+\multicol@leftmargin=\dimen136
+\c@unbalance=\count100
+\c@collectmore=\count101
+\doublecol@number=\count102
+\multicoltolerance=\count103
+\multicolpretolerance=\count104
+\full@width=\dimen137
+\page@free=\dimen138
+\premulticols=\dimen139
+\postmulticols=\dimen140
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen141
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count105
+\c@finalcolumnbadness=\count106
+\last@try=\dimen142
+\multicolovershoot=\dimen143
+\multicolundershoot=\dimen144
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count107
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -189,15 +250,15 @@ LaTeX Font Info:    ... okay on input line 15.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(23.84923pt, 566.59654pt, 23.84923pt)
-* v-part:(T,H,B)=(23.84923pt, 747.27153pt, 23.84923pt)
+* h-part:(L,W,R)=(10.0pt, 594.295pt, 10.0pt)
+* v-part:(T,H,B)=(10.0pt, 774.96999pt, 10.0pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=566.59654pt
-* \textheight=747.27153pt
-* \oddsidemargin=-48.42076pt
-* \evensidemargin=-48.42076pt
-* \topmargin=-85.42076pt
+* \textwidth=594.295pt
+* \textheight=774.96999pt
+* \oddsidemargin=-62.26999pt
+* \evensidemargin=-62.26999pt
+* \topmargin=-99.26999pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -216,70 +277,34 @@ LaTeX Font Info:    ... okay on input line 15.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 15.
- (sec/baseInfo.tex
-LaTeX Font Info:    Try loading font information for T1+lmdh on input line 1.
+LaTeX Info: Redefining \selectfont on input line 17.
+LaTeX Font Info:    Try loading font information for T1+lmdh on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmdh.fd"
 File: t1lmdh.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+) (sec/baseInfo.tex
 File: img/address.png Graphic file (type eps)
- <img/address.png>
-File: img/email.png Graphic file (type eps)
 
-<img/email.png>
-File: img/website.png Graphic file (type eps)
- <img/website.png>
-File: img/phone.png Graphic file (type eps)
- <img/phone.png>
+<img/address.png>
 File: img/git.png Graphic file (type eps)
  <img/git.png>
-Overfull \hbox (18.66191pt too wide) in paragraph at lines 20--36
-[]|[]| 
- []
+File: img/website.png Graphic file (type eps)
+ <img/website.png>
+File: img/email.png Graphic file (type eps)
+ <img/email.png>
+File: img/phone.png Graphic file (type eps)
 
-) (sec/educationObjective.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
-) (sec/experience.tex
-Overfull \vbox (176.88005pt too high) detected at line 11
- []
-
-
-Overfull \vbox (154.00008pt too high) detected at line 19
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--19
-
- []
-
+<img/phone.png>) (sec/education.tex) (sec/technical.tex) (sec/experience.tex)
 [1
 
 ] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1542 strings out of 493324
- 21472 string characters out of 3139091
- 88566 words of memory out of 3000000
- 5060 multiletter control sequences out of 15000+200000
- 13921 words of font info for 27 fonts, out of 3000000 for 9000
+ 1678 strings out of 493324
+ 23476 string characters out of 3139091
+ 87714 words of memory out of 3000000
+ 5185 multiletter control sequences out of 15000+200000
+ 13976 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,15n,32p,228b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,4n,32p,206b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (1 page, 3996 bytes).
+Output written on resume.dvi (1 page, 2620 bytes).
